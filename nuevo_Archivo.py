@@ -2,4 +2,4 @@ def funcion1():
     pass
 
 def funcion2():
-    pass
+    return 1+2
